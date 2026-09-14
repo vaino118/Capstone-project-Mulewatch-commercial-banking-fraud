@@ -1,0 +1,11 @@
+{
+  "seed": 42,
+  "fraud_rate": 0.03,
+  "n_accounts": 5000,
+  "n_transactions": 75000,
+  "n_auth_events": 20000,
+  "n_devices": 8000,
+  "n_beneficiary_changes": 6000,
+  "n_aml_notes": 1000,
+  "generated_at": "2026-09-14T15:46:05.914724"
+}

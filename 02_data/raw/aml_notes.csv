@@ -1,0 +1,1001 @@
+case_id,account_id,free_text_note,typology_label,created_at
+CASE00000,ACC001144,"Multiple cash deposits just below the NAD 10,000 threshold over 3 days.",structuring,2026-09-14 15:43:40
+CASE00001,ACC000878,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:41:30
+CASE00002,ACC003862,Login from New Michaelbury followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:42:39
+CASE00003,ACC000846,Funds received from 10 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:45:42
+CASE00004,ACC002489,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:43:15
+CASE00005,ACC001090,Account linked to 12 other accounts sharing device DEV002997.,mule_network,2026-09-14 15:41:47
+CASE00006,ACC000270,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:41:35
+CASE00007,ACC003968,"Multiple cash deposits just below the NAD 10,000 threshold over 10 days.",structuring,2026-09-14 15:43:01
+CASE00008,ACC003049,Account linked to 5 other accounts sharing device DEV001934.,mule_network,2026-09-14 15:44:49
+CASE00009,ACC000501,"Multiple cash deposits just below the NAD 50,000 threshold over 6 days.",structuring,2026-09-14 15:42:02
+CASE00010,ACC000465,"Customer made 10 transfers of NAD 81108 each, consistent with structuring.",structuring,2026-09-14 15:46:00
+CASE00011,ACC002570,MFA challenged 4 times within 36 minutes from new device.,account_takeover,2026-09-14 15:42:29
+CASE00012,ACC002991,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:45:11
+CASE00013,ACC003137,"Customer made 5 transfers of NAD 78595 each, consistent with structuring.",structuring,2026-09-14 15:43:02
+CASE00014,ACC004304,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:43:08
+CASE00015,ACC004445,Account linked to 2 other accounts sharing device DEV001702.,mule_network,2026-09-14 15:44:05
+CASE00016,ACC000711,"Customer made 11 transfers of NAD 83290 each, consistent with structuring.",structuring,2026-09-14 15:45:07
+CASE00017,ACC002462,"Customer made 10 transfers of NAD 68977 each, consistent with structuring.",structuring,2026-09-14 15:40:19
+CASE00018,ACC000794,Funds received from 7 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:42:06
+CASE00019,ACC002329,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:40:25
+CASE00020,ACC002220,Login from North Jeannehaven followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:41:14
+CASE00021,ACC004057,"Multiple cash deposits just below the NAD 50,000 threshold over 12 days.",structuring,2026-09-14 15:45:32
+CASE00022,ACC000829,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:45:32
+CASE00023,ACC002323,"Customer made 5 transfers of NAD 15001 each, consistent with structuring.",structuring,2026-09-14 15:40:46
+CASE00024,ACC004866,Account linked to 5 other accounts sharing device DEV002265.,mule_network,2026-09-14 15:44:55
+CASE00025,ACC004447,Account linked to 8 other accounts sharing device DEV008499.,mule_network,2026-09-14 15:40:45
+CASE00026,ACC002353,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:45:06
+CASE00027,ACC004395,Account linked to 10 other accounts sharing device DEV007723.,mule_network,2026-09-14 15:41:23
+CASE00028,ACC000504,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:43:02
+CASE00029,ACC004796,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:42:17
+CASE00030,ACC000628,Account linked to 9 other accounts sharing device DEV006953.,mule_network,2026-09-14 15:43:58
+CASE00031,ACC004740,Login from Taylorstad followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:45:45
+CASE00032,ACC004445,MFA challenged 12 times within 36 minutes from new device.,account_takeover,2026-09-14 15:40:18
+CASE00033,ACC002887,Funds received from 11 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:43:33
+CASE00034,ACC002094,"Multiple cash deposits just below the NAD 50,000 threshold over 5 days.",structuring,2026-09-14 15:43:08
+CASE00035,ACC003308,MFA challenged 5 times within 46 minutes from new device.,account_takeover,2026-09-14 15:45:59
+CASE00036,ACC001253,"Customer made 10 transfers of NAD 92808 each, consistent with structuring.",structuring,2026-09-14 15:44:03
+CASE00037,ACC000705,Funds received from 6 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:43:59
+CASE00038,ACC003150,"Customer made 7 transfers of NAD 23139 each, consistent with structuring.",structuring,2026-09-14 15:45:55
+CASE00039,ACC000206,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:44:38
+CASE00040,ACC004062,"Multiple cash deposits just below the NAD 25,000 threshold over 5 days.",structuring,2026-09-14 15:40:17
+CASE00041,ACC003078,Funds received from 8 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:43:07
+CASE00042,ACC003321,Account linked to 11 other accounts sharing device DEV004221.,mule_network,2026-09-14 15:46:05
+CASE00043,ACC002208,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:41:26
+CASE00044,ACC003968,MFA challenged 11 times within 58 minutes from new device.,account_takeover,2026-09-14 15:44:02
+CASE00045,ACC003588,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:41:41
+CASE00046,ACC000333,"Multiple cash deposits just below the NAD 10,000 threshold over 3 days.",structuring,2026-09-14 15:41:13
+CASE00047,ACC000468,"Multiple cash deposits just below the NAD 50,000 threshold over 5 days.",structuring,2026-09-14 15:40:55
+CASE00048,ACC000393,Login from Kimberlyview followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:41:36
+CASE00049,ACC002451,Account linked to 9 other accounts sharing device DEV002342.,mule_network,2026-09-14 15:43:58
+CASE00050,ACC000818,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:42:15
+CASE00051,ACC004853,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:44:31
+CASE00052,ACC000335,"Customer made 11 transfers of NAD 77598 each, consistent with structuring.",structuring,2026-09-14 15:41:00
+CASE00053,ACC002591,"Multiple cash deposits just below the NAD 50,000 threshold over 2 days.",structuring,2026-09-14 15:40:31
+CASE00054,ACC001001,MFA challenged 11 times within 10 minutes from new device.,account_takeover,2026-09-14 15:42:00
+CASE00055,ACC004395,MFA challenged 6 times within 5 minutes from new device.,account_takeover,2026-09-14 15:41:41
+CASE00056,ACC000373,"Multiple cash deposits just below the NAD 10,000 threshold over 11 days.",structuring,2026-09-14 15:41:47
+CASE00057,ACC002138,"Customer made 11 transfers of NAD 16995 each, consistent with structuring.",structuring,2026-09-14 15:45:43
+CASE00058,ACC000838,"Multiple cash deposits just below the NAD 50,000 threshold over 5 days.",structuring,2026-09-14 15:45:39
+CASE00059,ACC004209,Funds received from 5 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:40:28
+CASE00060,ACC002286,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:41:19
+CASE00061,ACC000482,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:44:20
+CASE00062,ACC001939,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:41:40
+CASE00063,ACC001907,"Multiple cash deposits just below the NAD 10,000 threshold over 4 days.",structuring,2026-09-14 15:44:46
+CASE00064,ACC000915,MFA challenged 10 times within 15 minutes from new device.,account_takeover,2026-09-14 15:45:36
+CASE00065,ACC002801,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:43:03
+CASE00066,ACC004183,"Customer made 7 transfers of NAD 46200 each, consistent with structuring.",structuring,2026-09-14 15:40:51
+CASE00067,ACC002138,Account linked to 11 other accounts sharing device DEV000605.,mule_network,2026-09-14 15:43:23
+CASE00068,ACC003543,MFA challenged 8 times within 15 minutes from new device.,account_takeover,2026-09-14 15:44:01
+CASE00069,ACC001055,"Customer made 2 transfers of NAD 71319 each, consistent with structuring.",structuring,2026-09-14 15:44:02
+CASE00070,ACC000705,Account linked to 9 other accounts sharing device DEV008778.,mule_network,2026-09-14 15:42:51
+CASE00071,ACC001370,"Multiple cash deposits just below the NAD 10,000 threshold over 8 days.",structuring,2026-09-14 15:44:18
+CASE00072,ACC000567,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:40:34
+CASE00073,ACC002342,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:45:51
+CASE00074,ACC003000,MFA challenged 11 times within 54 minutes from new device.,account_takeover,2026-09-14 15:41:25
+CASE00075,ACC003634,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:42:06
+CASE00076,ACC000486,"Multiple cash deposits just below the NAD 25,000 threshold over 13 days.",structuring,2026-09-14 15:41:52
+CASE00077,ACC002663,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:43:57
+CASE00078,ACC001020,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:43:26
+CASE00079,ACC001600,"Multiple cash deposits just below the NAD 50,000 threshold over 5 days.",structuring,2026-09-14 15:44:49
+CASE00080,ACC004101,MFA challenged 2 times within 45 minutes from new device.,account_takeover,2026-09-14 15:43:37
+CASE00081,ACC003992,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:42:25
+CASE00082,ACC003362,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:42:51
+CASE00083,ACC004153,Funds received from 4 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:45:16
+CASE00084,ACC004068,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:43:17
+CASE00085,ACC000589,Funds received from 12 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:44:56
+CASE00086,ACC000168,"Multiple cash deposits just below the NAD 10,000 threshold over 12 days.",structuring,2026-09-14 15:41:55
+CASE00087,ACC004635,"Multiple cash deposits just below the NAD 50,000 threshold over 4 days.",structuring,2026-09-14 15:42:18
+CASE00088,ACC000079,"Customer made 10 transfers of NAD 87288 each, consistent with structuring.",structuring,2026-09-14 15:41:16
+CASE00089,ACC000029,MFA challenged 8 times within 28 minutes from new device.,account_takeover,2026-09-14 15:42:32
+CASE00090,ACC003752,"Customer made 4 transfers of NAD 26456 each, consistent with structuring.",structuring,2026-09-14 15:40:59
+CASE00091,ACC004912,"Customer made 3 transfers of NAD 36276 each, consistent with structuring.",structuring,2026-09-14 15:43:07
+CASE00092,ACC004487,Account linked to 6 other accounts sharing device DEV008282.,mule_network,2026-09-14 15:41:17
+CASE00093,ACC002940,"Customer made 11 transfers of NAD 48495 each, consistent with structuring.",structuring,2026-09-14 15:45:21
+CASE00094,ACC004062,MFA challenged 5 times within 52 minutes from new device.,account_takeover,2026-09-14 15:41:01
+CASE00095,ACC004749,MFA challenged 10 times within 54 minutes from new device.,account_takeover,2026-09-14 15:46:04
+CASE00096,ACC001755,Account linked to 11 other accounts sharing device DEV006144.,mule_network,2026-09-14 15:44:06
+CASE00097,ACC001670,MFA challenged 12 times within 15 minutes from new device.,account_takeover,2026-09-14 15:44:23
+CASE00098,ACC001583,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:45:10
+CASE00099,ACC000755,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:42:18
+CASE00100,ACC000931,"Multiple cash deposits just below the NAD 10,000 threshold over 8 days.",structuring,2026-09-14 15:42:22
+CASE00101,ACC004846,Login from Port Jeffreymouth followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:43:10
+CASE00102,ACC002659,Funds received from 9 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:44:31
+CASE00103,ACC004635,MFA challenged 4 times within 31 minutes from new device.,account_takeover,2026-09-14 15:44:28
+CASE00104,ACC003297,"Multiple cash deposits just below the NAD 25,000 threshold over 6 days.",structuring,2026-09-14 15:43:55
+CASE00105,ACC002575,Account linked to 8 other accounts sharing device DEV009857.,mule_network,2026-09-14 15:42:48
+CASE00106,ACC003821,MFA challenged 8 times within 23 minutes from new device.,account_takeover,2026-09-14 15:40:43
+CASE00107,ACC000393,"Customer made 11 transfers of NAD 16785 each, consistent with structuring.",structuring,2026-09-14 15:45:53
+CASE00108,ACC004121,"Customer made 5 transfers of NAD 26475 each, consistent with structuring.",structuring,2026-09-14 15:43:23
+CASE00109,ACC000116,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:41:25
+CASE00110,ACC004524,"Customer made 12 transfers of NAD 71661 each, consistent with structuring.",structuring,2026-09-14 15:44:40
+CASE00111,ACC004062,Account linked to 5 other accounts sharing device DEV007016.,mule_network,2026-09-14 15:44:00
+CASE00112,ACC000029,Account linked to 8 other accounts sharing device DEV007551.,mule_network,2026-09-14 15:40:57
+CASE00113,ACC003380,MFA challenged 11 times within 55 minutes from new device.,account_takeover,2026-09-14 15:44:48
+CASE00114,ACC000227,"Customer made 12 transfers of NAD 51837 each, consistent with structuring.",structuring,2026-09-14 15:45:48
+CASE00115,ACC001335,MFA challenged 5 times within 10 minutes from new device.,account_takeover,2026-09-14 15:44:55
+CASE00116,ACC000792,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:44:08
+CASE00117,ACC001304,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:40:24
+CASE00118,ACC004697,Login from Port Dawn followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:43:45
+CASE00119,ACC004153,"Multiple cash deposits just below the NAD 50,000 threshold over 9 days.",structuring,2026-09-14 15:43:56
+CASE00120,ACC001144,"Multiple cash deposits just below the NAD 25,000 threshold over 11 days.",structuring,2026-09-14 15:41:33
+CASE00121,ACC002112,"Multiple cash deposits just below the NAD 10,000 threshold over 3 days.",structuring,2026-09-14 15:46:00
+CASE00122,ACC000814,Funds received from 5 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:45:56
+CASE00123,ACC003601,"Customer made 7 transfers of NAD 44641 each, consistent with structuring.",structuring,2026-09-14 15:40:53
+CASE00124,ACC002950,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:41:49
+CASE00125,ACC000240,Account linked to 8 other accounts sharing device DEV000574.,mule_network,2026-09-14 15:45:28
+CASE00126,ACC004183,"Customer made 8 transfers of NAD 44895 each, consistent with structuring.",structuring,2026-09-14 15:42:40
+CASE00127,ACC003864,Funds received from 2 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:45:30
+CASE00128,ACC003599,"Customer made 9 transfers of NAD 10552 each, consistent with structuring.",structuring,2026-09-14 15:41:14
+CASE00129,ACC004315,"Multiple cash deposits just below the NAD 10,000 threshold over 12 days.",structuring,2026-09-14 15:40:35
+CASE00130,ACC002633,Login from Jenniferfurt followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:40:25
+CASE00131,ACC000915,MFA challenged 6 times within 26 minutes from new device.,account_takeover,2026-09-14 15:41:27
+CASE00132,ACC000838,MFA challenged 5 times within 37 minutes from new device.,account_takeover,2026-09-14 15:41:06
+CASE00133,ACC004424,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:44:40
+CASE00134,ACC002185,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:44:49
+CASE00135,ACC003543,MFA challenged 8 times within 48 minutes from new device.,account_takeover,2026-09-14 15:45:52
+CASE00136,ACC003752,Funds received from 3 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:44:00
+CASE00137,ACC001615,Funds received from 11 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:44:47
+CASE00138,ACC000931,"Customer made 12 transfers of NAD 50398 each, consistent with structuring.",structuring,2026-09-14 15:42:54
+CASE00139,ACC003351,Login from Fergusonstad followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:40:39
+CASE00140,ACC002575,MFA challenged 9 times within 22 minutes from new device.,account_takeover,2026-09-14 15:42:14
+CASE00141,ACC003557,"Customer made 3 transfers of NAD 62319 each, consistent with structuring.",structuring,2026-09-14 15:44:32
+CASE00142,ACC000168,MFA challenged 6 times within 42 minutes from new device.,account_takeover,2026-09-14 15:43:49
+CASE00143,ACC001685,MFA challenged 2 times within 36 minutes from new device.,account_takeover,2026-09-14 15:44:02
+CASE00144,ACC000589,Login from Haleyberg followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:43:29
+CASE00145,ACC003021,Account linked to 8 other accounts sharing device DEV002964.,mule_network,2026-09-14 15:42:13
+CASE00146,ACC002215,Funds received from 3 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:41:12
+CASE00147,ACC002220,"Multiple cash deposits just below the NAD 25,000 threshold over 6 days.",structuring,2026-09-14 15:45:19
+CASE00148,ACC003181,"Multiple cash deposits just below the NAD 10,000 threshold over 6 days.",structuring,2026-09-14 15:40:40
+CASE00149,ACC000931,"Customer made 2 transfers of NAD 75149 each, consistent with structuring.",structuring,2026-09-14 15:44:38
+CASE00150,ACC000642,Login from Robertberg followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:45:18
+CASE00151,ACC000468,"Multiple cash deposits just below the NAD 10,000 threshold over 8 days.",structuring,2026-09-14 15:41:35
+CASE00152,ACC003875,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:40:19
+CASE00153,ACC004209,"Multiple cash deposits just below the NAD 25,000 threshold over 2 days.",structuring,2026-09-14 15:45:00
+CASE00154,ACC001057,Funds received from 7 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:43:00
+CASE00155,ACC000787,Account linked to 3 other accounts sharing device DEV006763.,mule_network,2026-09-14 15:41:11
+CASE00156,ACC002142,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:44:32
+CASE00157,ACC003351,MFA challenged 10 times within 18 minutes from new device.,account_takeover,2026-09-14 15:45:27
+CASE00158,ACC002011,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:41:30
+CASE00159,ACC001600,Account linked to 9 other accounts sharing device DEV000108.,mule_network,2026-09-14 15:42:00
+CASE00160,ACC002014,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:42:28
+CASE00161,ACC003899,Login from Tinafurt followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:42:13
+CASE00162,ACC004207,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:41:09
+CASE00163,ACC003752,MFA challenged 3 times within 60 minutes from new device.,account_takeover,2026-09-14 15:40:56
+CASE00164,ACC002323,"Multiple cash deposits just below the NAD 25,000 threshold over 11 days.",structuring,2026-09-14 15:42:58
+CASE00165,ACC004932,"Customer made 4 transfers of NAD 42052 each, consistent with structuring.",structuring,2026-09-14 15:44:22
+CASE00166,ACC004524,Login from Johnhaven followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:42:58
+CASE00167,ACC002513,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:41:05
+CASE00168,ACC001055,"Multiple cash deposits just below the NAD 50,000 threshold over 9 days.",structuring,2026-09-14 15:40:08
+CASE00169,ACC000486,Login from Clarkfort followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:42:08
+CASE00170,ACC002570,MFA challenged 10 times within 45 minutes from new device.,account_takeover,2026-09-14 15:45:01
+CASE00171,ACC001001,Funds received from 5 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:41:56
+CASE00172,ACC002152,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:45:35
+CASE00173,ACC000311,Login from Smithland followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:45:19
+CASE00174,ACC003906,Funds received from 10 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:43:01
+CASE00175,ACC003804,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:44:54
+CASE00176,ACC001073,"Multiple cash deposits just below the NAD 25,000 threshold over 6 days.",structuring,2026-09-14 15:45:07
+CASE00177,ACC000501,"Customer made 10 transfers of NAD 57085 each, consistent with structuring.",structuring,2026-09-14 15:45:48
+CASE00178,ACC002413,Account linked to 11 other accounts sharing device DEV000685.,mule_network,2026-09-14 15:42:11
+CASE00179,ACC001522,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:45:38
+CASE00180,ACC002776,Login from North Michael followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:40:56
+CASE00181,ACC001945,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:41:27
+CASE00182,ACC000065,Account linked to 9 other accounts sharing device DEV002623.,mule_network,2026-09-14 15:41:08
+CASE00183,ACC003456,"Customer made 10 transfers of NAD 75176 each, consistent with structuring.",structuring,2026-09-14 15:40:13
+CASE00184,ACC002519,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:40:56
+CASE00185,ACC000964,Login from East Sarah followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:43:48
+CASE00186,ACC004487,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:42:07
+CASE00187,ACC002642,MFA challenged 11 times within 37 minutes from new device.,account_takeover,2026-09-14 15:42:24
+CASE00188,ACC002887,Account linked to 5 other accounts sharing device DEV006999.,mule_network,2026-09-14 15:46:04
+CASE00189,ACC000079,"Customer made 12 transfers of NAD 28986 each, consistent with structuring.",structuring,2026-09-14 15:42:59
+CASE00190,ACC003599,"Multiple cash deposits just below the NAD 25,000 threshold over 9 days.",structuring,2026-09-14 15:45:17
+CASE00191,ACC002887,Login from Ryanmouth followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:45:52
+CASE00192,ACC004890,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:42:05
+CASE00193,ACC001335,Funds received from 10 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:45:45
+CASE00194,ACC001057,"Customer made 6 transfers of NAD 37394 each, consistent with structuring.",structuring,2026-09-14 15:45:31
+CASE00195,ACC004256,MFA challenged 11 times within 13 minutes from new device.,account_takeover,2026-09-14 15:40:18
+CASE00196,ACC004121,Funds received from 2 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:42:32
+CASE00197,ACC000227,Account linked to 7 other accounts sharing device DEV005868.,mule_network,2026-09-14 15:40:48
+CASE00198,ACC000769,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:44:06
+CASE00199,ACC000711,Account linked to 8 other accounts sharing device DEV003173.,mule_network,2026-09-14 15:44:35
+CASE00200,ACC003599,"Multiple cash deposits just below the NAD 25,000 threshold over 12 days.",structuring,2026-09-14 15:40:45
+CASE00201,ACC004721,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:42:07
+CASE00202,ACC004635,"Multiple cash deposits just below the NAD 10,000 threshold over 7 days.",structuring,2026-09-14 15:41:28
+CASE00203,ACC003682,Account linked to 10 other accounts sharing device DEV007498.,mule_network,2026-09-14 15:45:15
+CASE00204,ACC003340,Account linked to 5 other accounts sharing device DEV002745.,mule_network,2026-09-14 15:41:22
+CASE00205,ACC002441,Funds received from 4 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:44:16
+CASE00206,ACC004638,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:42:43
+CASE00207,ACC004343,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:45:20
+CASE00208,ACC000393,MFA challenged 7 times within 20 minutes from new device.,account_takeover,2026-09-14 15:44:23
+CASE00209,ACC003024,"Customer made 5 transfers of NAD 24445 each, consistent with structuring.",structuring,2026-09-14 15:40:49
+CASE00210,ACC003585,"Customer made 9 transfers of NAD 64173 each, consistent with structuring.",structuring,2026-09-14 15:42:33
+CASE00211,ACC002413,Login from Port Nancyfort followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:40:58
+CASE00212,ACC003543,Account linked to 2 other accounts sharing device DEV004262.,mule_network,2026-09-14 15:40:26
+CASE00213,ACC000926,MFA challenged 12 times within 33 minutes from new device.,account_takeover,2026-09-14 15:42:18
+CASE00214,ACC002820,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:45:32
+CASE00215,ACC000065,Funds received from 12 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:42:41
+CASE00216,ACC003682,Login from New Glenntown followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:43:32
+CASE00217,ACC000481,Login from Navarrofort followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:40:39
+CASE00218,ACC000173,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:43:00
+CASE00219,ACC001487,Account linked to 3 other accounts sharing device DEV006202.,mule_network,2026-09-14 15:44:35
+CASE00220,ACC001406,Account linked to 8 other accounts sharing device DEV008741.,mule_network,2026-09-14 15:43:51
+CASE00221,ACC003906,Account linked to 3 other accounts sharing device DEV006104.,mule_network,2026-09-14 15:45:33
+CASE00222,ACC003752,"Multiple cash deposits just below the NAD 10,000 threshold over 10 days.",structuring,2026-09-14 15:42:26
+CASE00223,ACC002570,"Customer made 2 transfers of NAD 5645 each, consistent with structuring.",structuring,2026-09-14 15:45:50
+CASE00224,ACC004352,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:45:37
+CASE00225,ACC001164,Login from Brownport followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:43:05
+CASE00226,ACC004797,"Customer made 6 transfers of NAD 14857 each, consistent with structuring.",structuring,2026-09-14 15:42:42
+CASE00227,ACC004121,Funds received from 4 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:44:24
+CASE00228,ACC003682,Account linked to 7 other accounts sharing device DEV009494.,mule_network,2026-09-14 15:44:25
+CASE00229,ACC004066,Funds received from 11 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:41:11
+CASE00230,ACC004183,Funds received from 5 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:45:02
+CASE00231,ACC002575,MFA challenged 12 times within 51 minutes from new device.,account_takeover,2026-09-14 15:44:51
+CASE00232,ACC001144,"Customer made 11 transfers of NAD 22461 each, consistent with structuring.",structuring,2026-09-14 15:45:22
+CASE00233,ACC001295,Account linked to 10 other accounts sharing device DEV009830.,mule_network,2026-09-14 15:45:09
+CASE00234,ACC003049,MFA challenged 9 times within 60 minutes from new device.,account_takeover,2026-09-14 15:44:47
+CASE00235,ACC002686,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:43:49
+CASE00236,ACC001600,Login from Evelynfurt followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:40:59
+CASE00237,ACC003752,MFA challenged 4 times within 7 minutes from new device.,account_takeover,2026-09-14 15:40:57
+CASE00238,ACC003580,Account linked to 3 other accounts sharing device DEV008115.,mule_network,2026-09-14 15:43:59
+CASE00239,ACC004445,Login from South Sarah followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:45:55
+CASE00240,ACC001659,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:41:11
+CASE00241,ACC000084,Login from South Jefferyport followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:44:16
+CASE00242,ACC000794,Funds received from 10 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:44:17
+CASE00243,ACC003557,"Multiple cash deposits just below the NAD 50,000 threshold over 11 days.",structuring,2026-09-14 15:40:35
+CASE00244,ACC000200,Login from Lake Williamborough followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:44:12
+CASE00245,ACC000838,Funds received from 11 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:40:35
+CASE00246,ACC001295,Login from North Melanie followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:44:50
+CASE00247,ACC001295,MFA challenged 9 times within 39 minutes from new device.,account_takeover,2026-09-14 15:45:30
+CASE00248,ACC000705,"Multiple cash deposits just below the NAD 25,000 threshold over 8 days.",structuring,2026-09-14 15:40:27
+CASE00249,ACC001413,Funds received from 2 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:43:04
+CASE00250,ACC003001,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:44:29
+CASE00251,ACC001295,Funds received from 2 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:45:38
+CASE00252,ACC002159,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:41:52
+CASE00253,ACC002468,Login from Annton followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:41:14
+CASE00254,ACC004866,Funds received from 5 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:43:38
+CASE00255,ACC002451,Funds received from 11 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:44:28
+CASE00256,ACC003321,MFA challenged 2 times within 15 minutes from new device.,account_takeover,2026-09-14 15:40:15
+CASE00257,ACC000084,"Multiple cash deposits just below the NAD 25,000 threshold over 2 days.",structuring,2026-09-14 15:45:57
+CASE00258,ACC001669,"Multiple cash deposits just below the NAD 25,000 threshold over 11 days.",structuring,2026-09-14 15:41:42
+CASE00259,ACC002653,Login from Randyland followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:41:50
+CASE00260,ACC003150,Account linked to 3 other accounts sharing device DEV001714.,mule_network,2026-09-14 15:41:07
+CASE00261,ACC004989,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:44:52
+CASE00262,ACC004062,"Multiple cash deposits just below the NAD 10,000 threshold over 9 days.",structuring,2026-09-14 15:41:57
+CASE00263,ACC002940,Login from East Davidberg followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:44:45
+CASE00264,ACC001055,"Customer made 8 transfers of NAD 24226 each, consistent with structuring.",structuring,2026-09-14 15:40:54
+CASE00265,ACC002186,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:41:54
+CASE00266,ACC003585,Login from Lake Daisy followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:44:57
+CASE00267,ACC000386,Login from Bakerton followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:42:51
+CASE00268,ACC004395,"Customer made 10 transfers of NAD 85568 each, consistent with structuring.",structuring,2026-09-14 15:45:08
+CASE00269,ACC002647,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:45:53
+CASE00270,ACC004183,Account linked to 2 other accounts sharing device DEV006548.,mule_network,2026-09-14 15:41:17
+CASE00271,ACC003300,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:44:45
+CASE00272,ACC004740,MFA challenged 9 times within 54 minutes from new device.,account_takeover,2026-09-14 15:45:40
+CASE00273,ACC004153,Account linked to 10 other accounts sharing device DEV009959.,mule_network,2026-09-14 15:45:57
+CASE00274,ACC000227,Account linked to 9 other accounts sharing device DEV000703.,mule_network,2026-09-14 15:45:08
+CASE00275,ACC004419,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:41:55
+CASE00276,ACC002935,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:45:04
+CASE00277,ACC003021,MFA challenged 7 times within 24 minutes from new device.,account_takeover,2026-09-14 15:45:49
+CASE00278,ACC002003,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:40:36
+CASE00279,ACC003078,Login from Baileyville followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:44:25
+CASE00280,ACC004684,Account linked to 6 other accounts sharing device DEV007726.,mule_network,2026-09-14 15:45:45
+CASE00281,ACC000964,Login from Ashleyborough followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:43:29
+CASE00282,ACC001129,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:42:16
+CASE00283,ACC003543,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:41:19
+CASE00284,ACC000248,Funds received from 10 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:44:23
+CASE00285,ACC001178,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:41:24
+CASE00286,ACC003616,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:44:50
+CASE00287,ACC000179,MFA challenged 9 times within 48 minutes from new device.,account_takeover,2026-09-14 15:43:01
+CASE00288,ACC002377,Login from Jefferybury followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:42:54
+CASE00289,ACC000655,Login from Matthewfort followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:43:09
+CASE00290,ACC001090,MFA challenged 9 times within 43 minutes from new device.,account_takeover,2026-09-14 15:45:04
+CASE00291,ACC004749,Login from New Matthew followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:46:04
+CASE00292,ACC002801,"Customer made 7 transfers of NAD 30357 each, consistent with structuring.",structuring,2026-09-14 15:42:50
+CASE00293,ACC004724,Login from Josefurt followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:43:13
+CASE00294,ACC001338,"Customer made 12 transfers of NAD 14750 each, consistent with structuring.",structuring,2026-09-14 15:43:15
+CASE00295,ACC004487,"Customer made 4 transfers of NAD 55765 each, consistent with structuring.",structuring,2026-09-14 15:41:25
+CASE00296,ACC001885,Funds received from 3 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:44:44
+CASE00297,ACC002801,"Customer made 10 transfers of NAD 45272 each, consistent with structuring.",structuring,2026-09-14 15:44:50
+CASE00298,ACC001973,MFA challenged 12 times within 12 minutes from new device.,account_takeover,2026-09-14 15:45:07
+CASE00299,ACC002819,MFA challenged 8 times within 46 minutes from new device.,account_takeover,2026-09-14 15:44:58
+CASE00300,ACC002974,Account linked to 6 other accounts sharing device DEV000324.,mule_network,2026-09-14 15:40:10
+CASE00301,ACC002659,MFA challenged 4 times within 39 minutes from new device.,account_takeover,2026-09-14 15:44:01
+CASE00302,ACC000838,Account linked to 8 other accounts sharing device DEV006829.,mule_network,2026-09-14 15:40:56
+CASE00303,ACC002323,"Customer made 3 transfers of NAD 43667 each, consistent with structuring.",structuring,2026-09-14 15:42:50
+CASE00304,ACC001235,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:45:11
+CASE00305,ACC003259,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:43:10
+CASE00306,ACC000519,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:40:56
+CASE00307,ACC001323,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:43:33
+CASE00308,ACC003601,Login from South Shelia followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:44:42
+CASE00309,ACC002940,Funds received from 6 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:45:49
+CASE00310,ACC001360,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:41:57
+CASE00311,ACC002773,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:45:08
+CASE00312,ACC000674,MFA challenged 8 times within 16 minutes from new device.,account_takeover,2026-09-14 15:43:35
+CASE00313,ACC004635,Funds received from 5 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:43:27
+CASE00314,ACC003244,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:41:05
+CASE00315,ACC002887,MFA challenged 5 times within 51 minutes from new device.,account_takeover,2026-09-14 15:42:19
+CASE00316,ACC003438,MFA challenged 4 times within 18 minutes from new device.,account_takeover,2026-09-14 15:45:53
+CASE00317,ACC000084,"Customer made 11 transfers of NAD 10328 each, consistent with structuring.",structuring,2026-09-14 15:42:11
+CASE00318,ACC002527,"Customer made 4 transfers of NAD 44022 each, consistent with structuring.",structuring,2026-09-14 15:40:27
+CASE00319,ACC001413,Account linked to 9 other accounts sharing device DEV007306.,mule_network,2026-09-14 15:45:12
+CASE00320,ACC002659,MFA challenged 11 times within 15 minutes from new device.,account_takeover,2026-09-14 15:44:16
+CASE00321,ACC003821,MFA challenged 6 times within 8 minutes from new device.,account_takeover,2026-09-14 15:42:37
+CASE00322,ACC003543,MFA challenged 10 times within 26 minutes from new device.,account_takeover,2026-09-14 15:41:09
+CASE00323,ACC001040,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:40:23
+CASE00324,ACC003092,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:45:25
+CASE00325,ACC000642,Login from Rossberg followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:43:41
+CASE00326,ACC000589,"Multiple cash deposits just below the NAD 50,000 threshold over 6 days.",structuring,2026-09-14 15:44:06
+CASE00327,ACC001744,Login from Bryanberg followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:44:15
+CASE00328,ACC002147,"Customer made 12 transfers of NAD 87216 each, consistent with structuring.",structuring,2026-09-14 15:44:53
+CASE00329,ACC001553,MFA challenged 10 times within 14 minutes from new device.,account_takeover,2026-09-14 15:42:42
+CASE00330,ACC004771,MFA challenged 3 times within 43 minutes from new device.,account_takeover,2026-09-14 15:44:05
+CASE00331,ACC002280,"Customer made 7 transfers of NAD 41868 each, consistent with structuring.",structuring,2026-09-14 15:42:52
+CASE00332,ACC001755,"Customer made 2 transfers of NAD 17848 each, consistent with structuring.",structuring,2026-09-14 15:44:23
+CASE00333,ACC002887,MFA challenged 4 times within 26 minutes from new device.,account_takeover,2026-09-14 15:44:21
+CASE00334,ACC001962,MFA challenged 2 times within 43 minutes from new device.,account_takeover,2026-09-14 15:44:50
+CASE00335,ACC001817,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:40:50
+CASE00336,ACC004183,Funds received from 5 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:42:17
+CASE00337,ACC001001,MFA challenged 5 times within 11 minutes from new device.,account_takeover,2026-09-14 15:45:57
+CASE00338,ACC003551,MFA challenged 7 times within 12 minutes from new device.,account_takeover,2026-09-14 15:45:52
+CASE00339,ACC003259,MFA challenged 3 times within 30 minutes from new device.,account_takeover,2026-09-14 15:40:27
+CASE00340,ACC003440,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:45:51
+CASE00341,ACC002452,Funds received from 9 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:43:05
+CASE00342,ACC002985,Account linked to 11 other accounts sharing device DEV005982.,mule_network,2026-09-14 15:43:05
+CASE00343,ACC004465,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:40:56
+CASE00344,ACC001335,Funds received from 10 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:44:51
+CASE00345,ACC004900,Account linked to 6 other accounts sharing device DEV000533.,mule_network,2026-09-14 15:43:31
+CASE00346,ACC002974,MFA challenged 6 times within 37 minutes from new device.,account_takeover,2026-09-14 15:45:35
+CASE00347,ACC000991,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:41:53
+CASE00348,ACC004315,Funds received from 2 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:43:08
+CASE00349,ACC004893,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:44:35
+CASE00350,ACC000248,Login from New Stevenport followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:45:05
+CASE00351,ACC004066,Login from North Sarahville followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:41:03
+CASE00352,ACC000393,"Customer made 5 transfers of NAD 44889 each, consistent with structuring.",structuring,2026-09-14 15:43:12
+CASE00353,ACC004062,"Customer made 8 transfers of NAD 34252 each, consistent with structuring.",structuring,2026-09-14 15:40:20
+CASE00354,ACC004072,Account linked to 12 other accounts sharing device DEV005016.,mule_network,2026-09-14 15:42:33
+CASE00355,ACC001553,Funds received from 3 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:42:45
+CASE00356,ACC000864,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:44:13
+CASE00357,ACC004635,Funds received from 10 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:45:20
+CASE00358,ACC003609,"Multiple cash deposits just below the NAD 50,000 threshold over 14 days.",structuring,2026-09-14 15:40:55
+CASE00359,ACC003752,Account linked to 12 other accounts sharing device DEV001678.,mule_network,2026-09-14 15:41:25
+CASE00360,ACC002974,Funds received from 6 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:40:58
+CASE00361,ACC000763,Login from Katrinaborough followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:40:19
+CASE00362,ACC004121,"Multiple cash deposits just below the NAD 10,000 threshold over 9 days.",structuring,2026-09-14 15:45:03
+CASE00363,ACC002492,"Customer made 10 transfers of NAD 82982 each, consistent with structuring.",structuring,2026-09-14 15:41:15
+CASE00364,ACC001600,MFA challenged 3 times within 12 minutes from new device.,account_takeover,2026-09-14 15:45:42
+CASE00365,ACC002570,Account linked to 8 other accounts sharing device DEV002187.,mule_network,2026-09-14 15:45:28
+CASE00366,ACC003601,"Customer made 3 transfers of NAD 51877 each, consistent with structuring.",structuring,2026-09-14 15:43:17
+CASE00367,ACC001701,Login from Lake Brenda followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:45:57
+CASE00368,ACC001744,Account linked to 5 other accounts sharing device DEV009892.,mule_network,2026-09-14 15:42:40
+CASE00369,ACC000448,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:45:12
+CASE00370,ACC000227,Login from Daviston followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:43:45
+CASE00371,ACC001396,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:41:29
+CASE00372,ACC000501,Login from Port Kathryn followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:44:06
+CASE00373,ACC000065,"Customer made 4 transfers of NAD 86511 each, consistent with structuring.",structuring,2026-09-14 15:45:53
+CASE00374,ACC004873,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:44:52
+CASE00375,ACC001907,Account linked to 5 other accounts sharing device DEV009718.,mule_network,2026-09-14 15:44:23
+CASE00376,ACC001001,"Multiple cash deposits just below the NAD 50,000 threshold over 4 days.",structuring,2026-09-14 15:43:40
+CASE00377,ACC004439,Account linked to 4 other accounts sharing device DEV000556.,mule_network,2026-09-14 15:42:30
+CASE00378,ACC004771,Account linked to 12 other accounts sharing device DEV009152.,mule_network,2026-09-14 15:42:02
+CASE00379,ACC003849,"Customer made 5 transfers of NAD 85222 each, consistent with structuring.",structuring,2026-09-14 15:43:08
+CASE00380,ACC003219,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:45:09
+CASE00381,ACC003906,Login from Brentshire followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:40:24
+CASE00382,ACC001084,Login from West Sallyburgh followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:40:09
+CASE00383,ACC000655,"Multiple cash deposits just below the NAD 10,000 threshold over 5 days.",structuring,2026-09-14 15:44:17
+CASE00384,ACC001057,Account linked to 11 other accounts sharing device DEV002379.,mule_network,2026-09-14 15:43:39
+CASE00385,ACC000540,"Multiple cash deposits just below the NAD 25,000 threshold over 13 days.",structuring,2026-09-14 15:42:45
+CASE00386,ACC001421,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:41:54
+CASE00387,ACC003543,"Customer made 9 transfers of NAD 6410 each, consistent with structuring.",structuring,2026-09-14 15:40:39
+CASE00388,ACC004842,Login from Martinezhaven followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:45:48
+CASE00389,ACC001090,"Multiple cash deposits just below the NAD 25,000 threshold over 14 days.",structuring,2026-09-14 15:41:51
+CASE00390,ACC000373,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:43:02
+CASE00391,ACC002627,Login from Kingland followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:44:42
+CASE00392,ACC001553,Account linked to 7 other accounts sharing device DEV008924.,mule_network,2026-09-14 15:44:04
+CASE00393,ACC000106,"Multiple cash deposits just below the NAD 25,000 threshold over 3 days.",structuring,2026-09-14 15:45:05
+CASE00394,ACC001280,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:42:44
+CASE00395,ACC000550,"Multiple cash deposits just below the NAD 10,000 threshold over 10 days.",structuring,2026-09-14 15:40:46
+CASE00396,ACC001538,"Customer made 8 transfers of NAD 34345 each, consistent with structuring.",structuring,2026-09-14 15:43:23
+CASE00397,ACC003362,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:44:55
+CASE00398,ACC004469,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:45:36
+CASE00399,ACC003280,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:40:41
+CASE00400,ACC000105,"Multiple cash deposits just below the NAD 50,000 threshold over 5 days.",structuring,2026-09-14 15:42:31
+CASE00401,ACC000964,Account linked to 2 other accounts sharing device DEV009485.,mule_network,2026-09-14 15:40:28
+CASE00402,ACC000328,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:41:00
+CASE00403,ACC002846,"Multiple cash deposits just below the NAD 10,000 threshold over 6 days.",structuring,2026-09-14 15:40:50
+CASE00404,ACC000029,"Multiple cash deposits just below the NAD 50,000 threshold over 13 days.",structuring,2026-09-14 15:42:39
+CASE00405,ACC004800,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:45:53
+CASE00406,ACC001084,"Multiple cash deposits just below the NAD 50,000 threshold over 13 days.",structuring,2026-09-14 15:43:17
+CASE00407,ACC003773,Account linked to 5 other accounts sharing device DEV009011.,mule_network,2026-09-14 15:45:11
+CASE00408,ACC000084,Funds received from 9 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:40:15
+CASE00409,ACC000168,MFA challenged 9 times within 54 minutes from new device.,account_takeover,2026-09-14 15:45:10
+CASE00410,ACC004242,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:41:03
+CASE00411,ACC004209,MFA challenged 5 times within 22 minutes from new device.,account_takeover,2026-09-14 15:41:28
+CASE00412,ACC003078,"Multiple cash deposits just below the NAD 50,000 threshold over 12 days.",structuring,2026-09-14 15:45:59
+CASE00413,ACC000787,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:43:48
+CASE00414,ACC001295,"Customer made 8 transfers of NAD 86477 each, consistent with structuring.",structuring,2026-09-14 15:44:29
+CASE00415,ACC000501,Funds received from 5 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:40:53
+CASE00416,ACC002586,Account linked to 9 other accounts sharing device DEV004646.,mule_network,2026-09-14 15:43:21
+CASE00417,ACC000960,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:45:11
+CASE00418,ACC000228,"Customer made 8 transfers of NAD 69691 each, consistent with structuring.",structuring,2026-09-14 15:43:43
+CASE00419,ACC001988,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:42:01
+CASE00420,ACC000565,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:41:59
+CASE00421,ACC003493,Account linked to 5 other accounts sharing device DEV000187.,mule_network,2026-09-14 15:40:50
+CASE00422,ACC000333,"Multiple cash deposits just below the NAD 10,000 threshold over 4 days.",structuring,2026-09-14 15:40:26
+CASE00423,ACC004756,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:44:35
+CASE00424,ACC000964,Account linked to 10 other accounts sharing device DEV009341.,mule_network,2026-09-14 15:40:05
+CASE00425,ACC001055,Account linked to 9 other accounts sharing device DEV002406.,mule_network,2026-09-14 15:40:21
+CASE00426,ACC004445,Account linked to 6 other accounts sharing device DEV005515.,mule_network,2026-09-14 15:45:36
+CASE00427,ACC000486,MFA challenged 8 times within 9 minutes from new device.,account_takeover,2026-09-14 15:40:19
+CASE00428,ACC000023,"Multiple cash deposits just below the NAD 10,000 threshold over 12 days.",structuring,2026-09-14 15:42:29
+CASE00429,ACC003773,MFA challenged 10 times within 18 minutes from new device.,account_takeover,2026-09-14 15:40:31
+CASE00430,ACC003906,Funds received from 9 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:42:40
+CASE00431,ACC004684,"Customer made 6 transfers of NAD 89059 each, consistent with structuring.",structuring,2026-09-14 15:40:40
+CASE00432,ACC000128,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:40:50
+CASE00433,ACC003590,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:42:43
+CASE00434,ACC001515,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:43:31
+CASE00435,ACC004219,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:44:07
+CASE00436,ACC001906,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:45:54
+CASE00437,ACC004256,Funds received from 12 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:44:05
+CASE00438,ACC004381,"Multiple cash deposits just below the NAD 50,000 threshold over 4 days.",structuring,2026-09-14 15:42:14
+CASE00439,ACC002659,Login from Wrightton followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:42:52
+CASE00440,ACC001744,Funds received from 11 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:43:44
+CASE00441,ACC000559,"Multiple cash deposits just below the NAD 10,000 threshold over 8 days.",structuring,2026-09-14 15:41:08
+CASE00442,ACC000179,Login from Martinezstad followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:41:23
+CASE00443,ACC000763,Account linked to 11 other accounts sharing device DEV006474.,mule_network,2026-09-14 15:41:09
+CASE00444,ACC000227,Account linked to 12 other accounts sharing device DEV000596.,mule_network,2026-09-14 15:45:19
+CASE00445,ACC004142,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:40:52
+CASE00446,ACC001697,"Multiple cash deposits just below the NAD 50,000 threshold over 7 days.",structuring,2026-09-14 15:40:35
+CASE00447,ACC000029,"Customer made 2 transfers of NAD 25641 each, consistent with structuring.",structuring,2026-09-14 15:41:42
+CASE00448,ACC004615,"Customer made 12 transfers of NAD 53363 each, consistent with structuring.",structuring,2026-09-14 15:45:55
+CASE00449,ACC001370,MFA challenged 3 times within 27 minutes from new device.,account_takeover,2026-09-14 15:42:27
+CASE00450,ACC003585,MFA challenged 11 times within 34 minutes from new device.,account_takeover,2026-09-14 15:41:36
+CASE00451,ACC000373,Login from Lake Kimberly followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:43:21
+CASE00452,ACC003321,Funds received from 11 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:42:53
+CASE00453,ACC000503,Funds received from 5 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:41:26
+CASE00454,ACC000465,"Customer made 2 transfers of NAD 30241 each, consistent with structuring.",structuring,2026-09-14 15:46:01
+CASE00455,ACC003021,"Multiple cash deposits just below the NAD 25,000 threshold over 6 days.",structuring,2026-09-14 15:44:36
+CASE00456,ACC001012,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:42:30
+CASE00457,ACC000501,Account linked to 4 other accounts sharing device DEV001184.,mule_network,2026-09-14 15:41:16
+CASE00458,ACC000070,"Customer made 6 transfers of NAD 90165 each, consistent with structuring.",structuring,2026-09-14 15:44:47
+CASE00459,ACC004487,MFA challenged 6 times within 6 minutes from new device.,account_takeover,2026-09-14 15:42:57
+CASE00460,ACC004183,"Multiple cash deposits just below the NAD 10,000 threshold over 8 days.",structuring,2026-09-14 15:44:41
+CASE00461,ACC002633,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:45:57
+CASE00462,ACC002940,Account linked to 5 other accounts sharing device DEV005748.,mule_network,2026-09-14 15:40:48
+CASE00463,ACC003826,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:42:27
+CASE00464,ACC000705,Login from Luisville followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:43:37
+CASE00465,ACC004524,Login from Lake Tracyberg followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:43:10
+CASE00466,ACC001057,"Customer made 11 transfers of NAD 7795 each, consistent with structuring.",structuring,2026-09-14 15:41:15
+CASE00467,ACC004966,MFA challenged 8 times within 26 minutes from new device.,account_takeover,2026-09-14 15:42:13
+CASE00468,ACC000179,Account linked to 12 other accounts sharing device DEV005485.,mule_network,2026-09-14 15:44:59
+CASE00469,ACC004464,Login from New Lauraport followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:41:50
+CASE00470,ACC003585,Account linked to 5 other accounts sharing device DEV000235.,mule_network,2026-09-14 15:43:36
+CASE00471,ACC003351,"Customer made 7 transfers of NAD 13572 each, consistent with structuring.",structuring,2026-09-14 15:43:15
+CASE00472,ACC004183,MFA challenged 11 times within 56 minutes from new device.,account_takeover,2026-09-14 15:41:14
+CASE00473,ACC004296,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:45:11
+CASE00474,ACC002220,Funds received from 7 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:41:04
+CASE00475,ACC001375,Funds received from 4 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:40:42
+CASE00476,ACC003023,"Customer made 10 transfers of NAD 32397 each, consistent with structuring.",structuring,2026-09-14 15:45:04
+CASE00477,ACC003456,Account linked to 2 other accounts sharing device DEV002392.,mule_network,2026-09-14 15:43:25
+CASE00478,ACC000931,Login from Theresafurt followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:43:09
+CASE00479,ACC003256,Funds received from 10 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:44:42
+CASE00480,ACC000324,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:41:36
+CASE00481,ACC002819,"Customer made 5 transfers of NAD 73655 each, consistent with structuring.",structuring,2026-09-14 15:42:47
+CASE00482,ACC001177,Login from New Thomas followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:41:24
+CASE00483,ACC003283,MFA challenged 10 times within 47 minutes from new device.,account_takeover,2026-09-14 15:44:10
+CASE00484,ACC000374,Account linked to 4 other accounts sharing device DEV000950.,mule_network,2026-09-14 15:43:39
+CASE00485,ACC002978,Login from South Jonathanfurt followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:45:07
+CASE00486,ACC001867,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:42:03
+CASE00487,ACC003687,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:45:51
+CASE00488,ACC002280,Account linked to 3 other accounts sharing device DEV003756.,mule_network,2026-09-14 15:44:04
+CASE00489,ACC001443,Login from Nancyport followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:42:40
+CASE00490,ACC002653,Login from South Catherinemouth followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:40:28
+CASE00491,ACC002067,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:43:02
+CASE00492,ACC004767,Account linked to 4 other accounts sharing device DEV001107.,mule_network,2026-09-14 15:45:01
+CASE00493,ACC000497,"Customer made 9 transfers of NAD 66629 each, consistent with structuring.",structuring,2026-09-14 15:45:53
+CASE00494,ACC002377,Funds received from 2 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:44:39
+CASE00495,ACC001670,"Customer made 8 transfers of NAD 52836 each, consistent with structuring.",structuring,2026-09-14 15:43:10
+CASE00496,ACC003875,MFA challenged 9 times within 26 minutes from new device.,account_takeover,2026-09-14 15:42:39
+CASE00497,ACC000023,"Customer made 4 transfers of NAD 88934 each, consistent with structuring.",structuring,2026-09-14 15:40:46
+CASE00498,ACC003181,Login from South Anneport followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:40:17
+CASE00499,ACC002220,"Customer made 12 transfers of NAD 85281 each, consistent with structuring.",structuring,2026-09-14 15:45:23
+CASE00500,ACC000157,"Customer made 12 transfers of NAD 16464 each, consistent with structuring.",structuring,2026-09-14 15:44:46
+CASE00501,ACC001865,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:41:06
+CASE00502,ACC001905,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:43:06
+CASE00503,ACC000106,"Multiple cash deposits just below the NAD 25,000 threshold over 5 days.",structuring,2026-09-14 15:41:03
+CASE00504,ACC002971,"Customer made 3 transfers of NAD 28281 each, consistent with structuring.",structuring,2026-09-14 15:43:19
+CASE00505,ACC000227,Funds received from 5 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:40:56
+CASE00506,ACC000029,Funds received from 10 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:43:07
+CASE00507,ACC002924,Funds received from 10 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:46:04
+CASE00508,ACC003222,"Multiple cash deposits just below the NAD 50,000 threshold over 8 days.",structuring,2026-09-14 15:40:39
+CASE00509,ACC001117,Account linked to 12 other accounts sharing device DEV005927.,mule_network,2026-09-14 15:40:23
+CASE00510,ACC000029,Login from Port Miranda followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:45:17
+CASE00511,ACC004699,"Customer made 5 transfers of NAD 41182 each, consistent with structuring.",structuring,2026-09-14 15:40:22
+CASE00512,ACC004508,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:44:00
+CASE00513,ACC001907,"Customer made 11 transfers of NAD 70196 each, consistent with structuring.",structuring,2026-09-14 15:40:15
+CASE00514,ACC000248,Funds received from 5 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:45:36
+CASE00515,ACC003826,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:45:09
+CASE00516,ACC000453,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:45:09
+CASE00517,ACC002507,Login from North Jessica followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:45:38
+CASE00518,ACC003557,Funds received from 3 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:42:32
+CASE00519,ACC004628,Funds received from 4 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:40:05
+CASE00520,ACC004066,"Customer made 9 transfers of NAD 86553 each, consistent with structuring.",structuring,2026-09-14 15:40:46
+CASE00521,ACC000642,MFA challenged 12 times within 47 minutes from new device.,account_takeover,2026-09-14 15:42:30
+CASE00522,ACC002570,"Multiple cash deposits just below the NAD 25,000 threshold over 8 days.",structuring,2026-09-14 15:40:33
+CASE00523,ACC002801,Login from East Justin followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:40:37
+CASE00524,ACC002527,Login from Ashleyshire followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:43:00
+CASE00525,ACC000157,"Multiple cash deposits just below the NAD 10,000 threshold over 14 days.",structuring,2026-09-14 15:41:36
+CASE00526,ACC000862,"Multiple cash deposits just below the NAD 25,000 threshold over 3 days.",structuring,2026-09-14 15:41:34
+CASE00527,ACC003862,Account linked to 11 other accounts sharing device DEV004473.,mule_network,2026-09-14 15:46:03
+CASE00528,ACC003591,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:43:10
+CASE00529,ACC004816,"Multiple cash deposits just below the NAD 50,000 threshold over 13 days.",structuring,2026-09-14 15:41:35
+CASE00530,ACC000227,"Customer made 12 transfers of NAD 13502 each, consistent with structuring.",structuring,2026-09-14 15:44:34
+CASE00531,ACC004816,"Customer made 9 transfers of NAD 37503 each, consistent with structuring.",structuring,2026-09-14 15:43:47
+CASE00532,ACC003058,MFA challenged 3 times within 26 minutes from new device.,account_takeover,2026-09-14 15:44:29
+CASE00533,ACC002878,MFA challenged 3 times within 40 minutes from new device.,account_takeover,2026-09-14 15:42:36
+CASE00534,ACC000284,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:42:34
+CASE00535,ACC001955,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:43:32
+CASE00536,ACC001600,Funds received from 9 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:43:29
+CASE00537,ACC000655,"Multiple cash deposits just below the NAD 25,000 threshold over 2 days.",structuring,2026-09-14 15:45:00
+CASE00538,ACC002933,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:42:24
+CASE00539,ACC004531,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:44:14
+CASE00540,ACC002123,Login from Wilcoxshire followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:45:02
+CASE00541,ACC000477,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:44:16
+CASE00542,ACC003238,"Multiple cash deposits just below the NAD 25,000 threshold over 9 days.",structuring,2026-09-14 15:43:22
+CASE00543,ACC001670,MFA challenged 4 times within 48 minutes from new device.,account_takeover,2026-09-14 15:42:33
+CASE00544,ACC000907,"Multiple cash deposits just below the NAD 25,000 threshold over 13 days.",structuring,2026-09-14 15:43:28
+CASE00545,ACC003979,"Customer made 3 transfers of NAD 87115 each, consistent with structuring.",structuring,2026-09-14 15:40:43
+CASE00546,ACC001907,Account linked to 6 other accounts sharing device DEV007933.,mule_network,2026-09-14 15:40:32
+CASE00547,ACC000711,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:40:58
+CASE00548,ACC001311,"Multiple cash deposits just below the NAD 50,000 threshold over 11 days.",structuring,2026-09-14 15:40:29
+CASE00549,ACC000589,Login from Vanessaton followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:40:11
+CASE00550,ACC002094,MFA challenged 3 times within 42 minutes from new device.,account_takeover,2026-09-14 15:40:14
+CASE00551,ACC002979,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:42:52
+CASE00552,ACC001870,Login from Hendersonside followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:42:58
+CASE00553,ACC002940,Account linked to 11 other accounts sharing device DEV004720.,mule_network,2026-09-14 15:45:30
+CASE00554,ACC000084,"Multiple cash deposits just below the NAD 50,000 threshold over 5 days.",structuring,2026-09-14 15:40:58
+CASE00555,ACC002801,Login from Tanyatown followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:43:00
+CASE00556,ACC000179,"Customer made 3 transfers of NAD 76687 each, consistent with structuring.",structuring,2026-09-14 15:40:18
+CASE00557,ACC001663,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:40:49
+CASE00558,ACC003682,Account linked to 10 other accounts sharing device DEV007352.,mule_network,2026-09-14 15:45:10
+CASE00559,ACC000168,"Multiple cash deposits just below the NAD 25,000 threshold over 5 days.",structuring,2026-09-14 15:44:22
+CASE00560,ACC000079,"Multiple cash deposits just below the NAD 50,000 threshold over 5 days.",structuring,2026-09-14 15:43:11
+CASE00561,ACC003599,"Customer made 12 transfers of NAD 77827 each, consistent with structuring.",structuring,2026-09-14 15:40:58
+CASE00562,ACC000102,"Customer made 5 transfers of NAD 16521 each, consistent with structuring.",structuring,2026-09-14 15:44:01
+CASE00563,ACC000078,Funds received from 5 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:40:09
+CASE00564,ACC001295,"Customer made 5 transfers of NAD 63213 each, consistent with structuring.",structuring,2026-09-14 15:42:26
+CASE00565,ACC003821,MFA challenged 12 times within 55 minutes from new device.,account_takeover,2026-09-14 15:41:53
+CASE00566,ACC003876,Account linked to 9 other accounts sharing device DEV002771.,mule_network,2026-09-14 15:42:55
+CASE00567,ACC001084,Funds received from 10 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:42:16
+CASE00568,ACC000501,"Customer made 8 transfers of NAD 46855 each, consistent with structuring.",structuring,2026-09-14 15:40:50
+CASE00569,ACC002575,"Customer made 5 transfers of NAD 57024 each, consistent with structuring.",structuring,2026-09-14 15:44:42
+CASE00570,ACC002909,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:44:41
+CASE00571,ACC001755,Login from South Tracy followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:43:47
+CASE00572,ACC004175,"Multiple cash deposits just below the NAD 25,000 threshold over 14 days.",structuring,2026-09-14 15:44:28
+CASE00573,ACC004635,MFA challenged 10 times within 49 minutes from new device.,account_takeover,2026-09-14 15:41:57
+CASE00574,ACC000711,Login from Lake Jocelynport followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:40:45
+CASE00575,ACC000931,MFA challenged 5 times within 43 minutes from new device.,account_takeover,2026-09-14 15:40:53
+CASE00576,ACC003580,Account linked to 6 other accounts sharing device DEV008684.,mule_network,2026-09-14 15:44:09
+CASE00577,ACC002468,MFA challenged 5 times within 47 minutes from new device.,account_takeover,2026-09-14 15:44:42
+CASE00578,ACC004209,Account linked to 4 other accounts sharing device DEV008582.,mule_network,2026-09-14 15:44:22
+CASE00579,ACC001295,Account linked to 6 other accounts sharing device DEV008176.,mule_network,2026-09-14 15:44:26
+CASE00580,ACC002646,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:46:01
+CASE00581,ACC003698,"Customer made 9 transfers of NAD 48643 each, consistent with structuring.",structuring,2026-09-14 15:44:49
+CASE00582,ACC003557,"Multiple cash deposits just below the NAD 50,000 threshold over 3 days.",structuring,2026-09-14 15:45:56
+CASE00583,ACC002131,"Customer made 8 transfers of NAD 31959 each, consistent with structuring.",structuring,2026-09-14 15:41:04
+CASE00584,ACC000199,"Customer made 10 transfers of NAD 20727 each, consistent with structuring.",structuring,2026-09-14 15:41:40
+CASE00585,ACC003250,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:42:56
+CASE00586,ACC004993,Account linked to 10 other accounts sharing device DEV007240.,mule_network,2026-09-14 15:40:51
+CASE00587,ACC004315,"Multiple cash deposits just below the NAD 25,000 threshold over 14 days.",structuring,2026-09-14 15:45:52
+CASE00588,ACC003543,Login from Lake Karenshire followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:44:43
+CASE00589,ACC003862,"Multiple cash deposits just below the NAD 25,000 threshold over 8 days.",structuring,2026-09-14 15:45:54
+CASE00590,ACC004628,Account linked to 5 other accounts sharing device DEV006469.,mule_network,2026-09-14 15:41:00
+CASE00591,ACC000179,"Multiple cash deposits just below the NAD 25,000 threshold over 8 days.",structuring,2026-09-14 15:46:02
+CASE00592,ACC000497,"Customer made 5 transfers of NAD 64426 each, consistent with structuring.",structuring,2026-09-14 15:45:02
+CASE00593,ACC000023,Funds received from 4 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:43:11
+CASE00594,ACC000116,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:41:36
+CASE00595,ACC003698,Funds received from 12 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:44:23
+CASE00596,ACC001755,"Multiple cash deposits just below the NAD 25,000 threshold over 8 days.",structuring,2026-09-14 15:41:47
+CASE00597,ACC000926,Account linked to 8 other accounts sharing device DEV008257.,mule_network,2026-09-14 15:40:40
+CASE00598,ACC004066,Account linked to 6 other accounts sharing device DEV004884.,mule_network,2026-09-14 15:41:10
+CASE00599,ACC000131,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:41:21
+CASE00600,ACC001335,Account linked to 4 other accounts sharing device DEV001765.,mule_network,2026-09-14 15:41:39
+CASE00601,ACC002067,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:42:03
+CASE00602,ACC003543,Account linked to 9 other accounts sharing device DEV001447.,mule_network,2026-09-14 15:40:50
+CASE00603,ACC004730,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:41:02
+CASE00604,ACC002475,"Multiple cash deposits just below the NAD 25,000 threshold over 14 days.",structuring,2026-09-14 15:41:16
+CASE00605,ACC004818,Login from Charleston followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:44:28
+CASE00606,ACC004465,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:42:23
+CASE00607,ACC004628,Account linked to 5 other accounts sharing device DEV004418.,mule_network,2026-09-14 15:46:01
+CASE00608,ACC000501,"Customer made 10 transfers of NAD 30490 each, consistent with structuring.",structuring,2026-09-14 15:44:13
+CASE00609,ACC003580,Funds received from 2 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:44:57
+CASE00610,ACC004487,Account linked to 7 other accounts sharing device DEV005151.,mule_network,2026-09-14 15:42:21
+CASE00611,ACC000794,Funds received from 4 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:44:24
+CASE00612,ACC004771,Funds received from 11 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:44:53
+CASE00613,ACC002099,Account linked to 10 other accounts sharing device DEV004856.,mule_network,2026-09-14 15:43:52
+CASE00614,ACC004966,"Customer made 8 transfers of NAD 31659 each, consistent with structuring.",structuring,2026-09-14 15:42:52
+CASE00615,ACC003456,MFA challenged 4 times within 15 minutes from new device.,account_takeover,2026-09-14 15:45:31
+CASE00616,ACC003753,"Multiple cash deposits just below the NAD 50,000 threshold over 8 days.",structuring,2026-09-14 15:44:34
+CASE00617,ACC003773,Funds received from 11 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:42:48
+CASE00618,ACC002468,MFA challenged 9 times within 24 minutes from new device.,account_takeover,2026-09-14 15:45:32
+CASE00619,ACC001757,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:41:22
+CASE00620,ACC002344,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:44:47
+CASE00621,ACC003340,Funds received from 3 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:41:43
+CASE00622,ACC004451,Login from South Joshua followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:41:52
+CASE00623,ACC001670,"Multiple cash deposits just below the NAD 10,000 threshold over 10 days.",structuring,2026-09-14 15:41:28
+CASE00624,ACC004983,Login from Victoriastad followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:42:09
+CASE00625,ACC003385,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:45:46
+CASE00626,ACC001335,Account linked to 12 other accounts sharing device DEV002681.,mule_network,2026-09-14 15:40:45
+CASE00627,ACC002215,MFA challenged 11 times within 33 minutes from new device.,account_takeover,2026-09-14 15:41:49
+CASE00628,ACC000642,"Customer made 12 transfers of NAD 77792 each, consistent with structuring.",structuring,2026-09-14 15:40:57
+CASE00629,ACC003557,"Multiple cash deposits just below the NAD 10,000 threshold over 6 days.",structuring,2026-09-14 15:45:08
+CASE00630,ACC002855,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:45:19
+CASE00631,ACC004591,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:43:05
+CASE00632,ACC001084,Funds received from 6 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:42:11
+CASE00633,ACC001557,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:45:49
+CASE00634,ACC000915,Funds received from 12 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:42:56
+CASE00635,ACC002586,Funds received from 5 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:42:49
+CASE00636,ACC000659,"Multiple cash deposits just below the NAD 10,000 threshold over 13 days.",structuring,2026-09-14 15:41:25
+CASE00637,ACC003698,"Customer made 7 transfers of NAD 50701 each, consistent with structuring.",structuring,2026-09-14 15:43:16
+CASE00638,ACC000084,MFA challenged 6 times within 10 minutes from new device.,account_takeover,2026-09-14 15:45:10
+CASE00639,ACC003929,"Multiple cash deposits just below the NAD 10,000 threshold over 13 days.",structuring,2026-09-14 15:45:23
+CASE00640,ACC002784,Account linked to 4 other accounts sharing device DEV005223.,mule_network,2026-09-14 15:42:20
+CASE00641,ACC001159,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:42:54
+CASE00642,ACC000248,Login from Anthonymouth followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:42:10
+CASE00643,ACC000018,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:43:30
+CASE00644,ACC000425,"Multiple cash deposits just below the NAD 25,000 threshold over 12 days.",structuring,2026-09-14 15:44:41
+CASE00645,ACC004866,"Customer made 6 transfers of NAD 32252 each, consistent with structuring.",structuring,2026-09-14 15:45:11
+CASE00646,ACC002639,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:43:14
+CASE00647,ACC003821,Account linked to 2 other accounts sharing device DEV001909.,mule_network,2026-09-14 15:43:06
+CASE00648,ACC002974,"Customer made 7 transfers of NAD 45553 each, consistent with structuring.",structuring,2026-09-14 15:43:56
+CASE00649,ACC002846,"Customer made 12 transfers of NAD 52417 each, consistent with structuring.",structuring,2026-09-14 15:40:46
+CASE00650,ACC000794,"Customer made 10 transfers of NAD 43201 each, consistent with structuring.",structuring,2026-09-14 15:43:40
+CASE00651,ACC003242,MFA challenged 7 times within 59 minutes from new device.,account_takeover,2026-09-14 15:44:12
+CASE00652,ACC000911,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:44:15
+CASE00653,ACC002515,Login from West Rachel followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:45:55
+CASE00654,ACC003343,MFA challenged 4 times within 41 minutes from new device.,account_takeover,2026-09-14 15:41:02
+CASE00655,ACC000705,"Multiple cash deposits just below the NAD 10,000 threshold over 4 days.",structuring,2026-09-14 15:42:53
+CASE00656,ACC000589,"Multiple cash deposits just below the NAD 25,000 threshold over 3 days.",structuring,2026-09-14 15:44:18
+CASE00657,ACC002633,"Customer made 5 transfers of NAD 36170 each, consistent with structuring.",structuring,2026-09-14 15:42:30
+CASE00658,ACC001073,Account linked to 11 other accounts sharing device DEV000086.,mule_network,2026-09-14 15:40:45
+CASE00659,ACC000393,"Customer made 2 transfers of NAD 24403 each, consistent with structuring.",structuring,2026-09-14 15:45:19
+CASE00660,ACC000240,"Customer made 6 transfers of NAD 14132 each, consistent with structuring.",structuring,2026-09-14 15:40:43
+CASE00661,ACC000754,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:44:59
+CASE00662,ACC001145,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:44:59
+CASE00663,ACC004767,MFA challenged 9 times within 12 minutes from new device.,account_takeover,2026-09-14 15:42:49
+CASE00664,ACC000838,"Customer made 11 transfers of NAD 85451 each, consistent with structuring.",structuring,2026-09-14 15:41:17
+CASE00665,ACC004487,"Customer made 6 transfers of NAD 77436 each, consistent with structuring.",structuring,2026-09-14 15:42:27
+CASE00666,ACC000790,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:44:31
+CASE00667,ACC003752,Login from South Christopher followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:40:36
+CASE00668,ACC002801,Login from Kingstad followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:41:17
+CASE00669,ACC002527,Account linked to 6 other accounts sharing device DEV003053.,mule_network,2026-09-14 15:41:34
+CASE00670,ACC001600,Account linked to 2 other accounts sharing device DEV004000.,mule_network,2026-09-14 15:43:03
+CASE00671,ACC004749,MFA challenged 11 times within 51 minutes from new device.,account_takeover,2026-09-14 15:40:45
+CASE00672,ACC004066,Funds received from 3 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:43:36
+CASE00673,ACC003351,Login from Carterton followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:45:58
+CASE00674,ACC002295,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:43:56
+CASE00675,ACC003802,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:45:05
+CASE00676,ACC004511,MFA challenged 12 times within 25 minutes from new device.,account_takeover,2026-09-14 15:42:38
+CASE00677,ACC001669,"Multiple cash deposits just below the NAD 25,000 threshold over 13 days.",structuring,2026-09-14 15:40:57
+CASE00678,ACC003683,"Multiple cash deposits just below the NAD 25,000 threshold over 9 days.",structuring,2026-09-14 15:43:14
+CASE00679,ACC003150,"Customer made 6 transfers of NAD 10743 each, consistent with structuring.",structuring,2026-09-14 15:45:20
+CASE00680,ACC000497,MFA challenged 11 times within 49 minutes from new device.,account_takeover,2026-09-14 15:41:02
+CASE00681,ACC003580,"Multiple cash deposits just below the NAD 25,000 threshold over 11 days.",structuring,2026-09-14 15:40:29
+CASE00682,ACC000489,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:41:52
+CASE00683,ACC000926,Funds received from 8 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:42:48
+CASE00684,ACC002468,Funds received from 8 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:42:08
+CASE00685,ACC002099,"Multiple cash deposits just below the NAD 10,000 threshold over 8 days.",structuring,2026-09-14 15:42:49
+CASE00686,ACC001057,Account linked to 11 other accounts sharing device DEV000437.,mule_network,2026-09-14 15:45:43
+CASE00687,ACC001791,"Customer made 10 transfers of NAD 29108 each, consistent with structuring.",structuring,2026-09-14 15:42:56
+CASE00688,ACC002852,Login from Zhangburgh followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:43:53
+CASE00689,ACC000199,MFA challenged 12 times within 16 minutes from new device.,account_takeover,2026-09-14 15:40:36
+CASE00690,ACC000157,MFA challenged 12 times within 27 minutes from new device.,account_takeover,2026-09-14 15:44:41
+CASE00691,ACC004680,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:41:15
+CASE00692,ACC001553,"Multiple cash deposits just below the NAD 10,000 threshold over 4 days.",structuring,2026-09-14 15:41:50
+CASE00693,ACC003616,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:44:54
+CASE00694,ACC000240,Funds received from 9 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:40:48
+CASE00695,ACC003440,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:40:33
+CASE00696,ACC003034,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:45:22
+CASE00697,ACC004153,Account linked to 11 other accounts sharing device DEV002612.,mule_network,2026-09-14 15:43:21
+CASE00698,ACC003257,Login from East Natashaburgh followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:40:49
+CASE00699,ACC002451,Funds received from 4 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:42:43
+CASE00700,ACC001552,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:41:46
+CASE00701,ACC004842,Funds received from 5 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:40:34
+CASE00702,ACC000511,Login from Maxwellchester followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:45:20
+CASE00703,ACC000926,Login from Edwardsville followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:45:08
+CASE00704,ACC003968,MFA challenged 5 times within 26 minutes from new device.,account_takeover,2026-09-14 15:41:43
+CASE00705,ACC004635,MFA challenged 11 times within 49 minutes from new device.,account_takeover,2026-09-14 15:40:09
+CASE00706,ACC001436,Login from Baileyville followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:45:45
+CASE00707,ACC001501,Login from Williamsside followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:45:29
+CASE00708,ACC002060,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:43:34
+CASE00709,ACC004628,Login from Quinnview followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:41:14
+CASE00710,ACC004905,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:42:57
+CASE00711,ACC000501,"Customer made 6 transfers of NAD 87665 each, consistent with structuring.",structuring,2026-09-14 15:45:31
+CASE00712,ACC001469,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:41:15
+CASE00713,ACC002099,Login from Samanthafort followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:43:54
+CASE00714,ACC001962,Funds received from 4 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:45:03
+CASE00715,ACC003181,"Multiple cash deposits just below the NAD 50,000 threshold over 13 days.",structuring,2026-09-14 15:41:48
+CASE00716,ACC004395,Login from West Tiffany followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:40:42
+CASE00717,ACC003017,"Customer made 11 transfers of NAD 77810 each, consistent with structuring.",structuring,2026-09-14 15:40:09
+CASE00718,ACC000468,Account linked to 6 other accounts sharing device DEV003642.,mule_network,2026-09-14 15:40:07
+CASE00719,ACC001670,"Multiple cash deposits just below the NAD 25,000 threshold over 11 days.",structuring,2026-09-14 15:43:29
+CASE00720,ACC000980,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:44:48
+CASE00721,ACC000248,Account linked to 2 other accounts sharing device DEV009714.,mule_network,2026-09-14 15:42:44
+CASE00722,ACC002413,Login from Lake Nancy followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:41:57
+CASE00723,ACC003601,"Customer made 2 transfers of NAD 23881 each, consistent with structuring.",structuring,2026-09-14 15:41:09
+CASE00724,ACC000468,MFA challenged 2 times within 49 minutes from new device.,account_takeover,2026-09-14 15:45:08
+CASE00725,ACC000083,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:42:27
+CASE00726,ACC003386,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:45:23
+CASE00727,ACC000157,Funds received from 8 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:40:32
+CASE00728,ACC003111,"Customer made 8 transfers of NAD 48771 each, consistent with structuring.",structuring,2026-09-14 15:46:05
+CASE00729,ACC002554,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:44:47
+CASE00730,ACC002819,Login from East Christinemouth followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:41:53
+CASE00731,ACC002257,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:44:42
+CASE00732,ACC003906,Funds received from 8 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:45:31
+CASE00733,ACC002123,Funds received from 4 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:42:12
+CASE00734,ACC000708,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:40:17
+CASE00735,ACC003800,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:44:28
+CASE00736,ACC004097,Login from East Nicoleshire followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:42:42
+CASE00737,ACC001755,Account linked to 8 other accounts sharing device DEV003052.,mule_network,2026-09-14 15:42:26
+CASE00738,ACC004487,"Multiple cash deposits just below the NAD 25,000 threshold over 9 days.",structuring,2026-09-14 15:43:47
+CASE00739,ACC003530,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:45:51
+CASE00740,ACC001073,"Customer made 4 transfers of NAD 51879 each, consistent with structuring.",structuring,2026-09-14 15:42:14
+CASE00741,ACC003968,Funds received from 8 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:44:28
+CASE00742,ACC001416,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:45:44
+CASE00743,ACC000079,"Customer made 11 transfers of NAD 7454 each, consistent with structuring.",structuring,2026-09-14 15:42:33
+CASE00744,ACC000865,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:41:44
+CASE00745,ACC000486,MFA challenged 12 times within 18 minutes from new device.,account_takeover,2026-09-14 15:40:12
+CASE00746,ACC002586,"Multiple cash deposits just below the NAD 25,000 threshold over 3 days.",structuring,2026-09-14 15:41:27
+CASE00747,ACC002932,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:41:14
+CASE00748,ACC000029,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:42:23
+CASE00749,ACC004966,Account linked to 7 other accounts sharing device DEV001758.,mule_network,2026-09-14 15:43:31
+CASE00750,ACC001962,"Multiple cash deposits just below the NAD 10,000 threshold over 13 days.",structuring,2026-09-14 15:44:18
+CASE00751,ACC004743,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:41:30
+CASE00752,ACC004498,MFA challenged 2 times within 13 minutes from new device.,account_takeover,2026-09-14 15:43:28
+CASE00753,ACC001744,"Multiple cash deposits just below the NAD 50,000 threshold over 5 days.",structuring,2026-09-14 15:45:44
+CASE00754,ACC000029,MFA challenged 11 times within 6 minutes from new device.,account_takeover,2026-09-14 15:46:05
+CASE00755,ACC003161,Funds received from 5 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:45:35
+CASE00756,ACC003107,"Customer made 8 transfers of NAD 68922 each, consistent with structuring.",structuring,2026-09-14 15:44:48
+CASE00757,ACC004183,MFA challenged 5 times within 34 minutes from new device.,account_takeover,2026-09-14 15:43:14
+CASE00758,ACC003916,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:40:09
+CASE00759,ACC000969,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:41:52
+CASE00760,ACC002220,Login from West Sherriville followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:45:04
+CASE00761,ACC002795,"Multiple cash deposits just below the NAD 50,000 threshold over 6 days.",structuring,2026-09-14 15:44:09
+CASE00762,ACC001907,MFA challenged 5 times within 32 minutes from new device.,account_takeover,2026-09-14 15:41:53
+CASE00763,ACC003543,"Customer made 11 transfers of NAD 86447 each, consistent with structuring.",structuring,2026-09-14 15:41:02
+CASE00764,ACC000060,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:46:00
+CASE00765,ACC000533,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:46:03
+CASE00766,ACC003698,Funds received from 11 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:41:27
+CASE00767,ACC003107,MFA challenged 4 times within 41 minutes from new device.,account_takeover,2026-09-14 15:41:38
+CASE00768,ACC001992,"Multiple cash deposits just below the NAD 25,000 threshold over 9 days.",structuring,2026-09-14 15:44:17
+CASE00769,ACC004402,"Multiple cash deposits just below the NAD 50,000 threshold over 11 days.",structuring,2026-09-14 15:42:47
+CASE00770,ACC002215,Account linked to 4 other accounts sharing device DEV004601.,mule_network,2026-09-14 15:43:26
+CASE00771,ACC000520,MFA challenged 6 times within 13 minutes from new device.,account_takeover,2026-09-14 15:41:56
+CASE00772,ACC004628,Account linked to 10 other accounts sharing device DEV007989.,mule_network,2026-09-14 15:42:28
+CASE00773,ACC003899,"Multiple cash deposits just below the NAD 10,000 threshold over 14 days.",structuring,2026-09-14 15:44:37
+CASE00774,ACC000742,Funds received from 8 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:43:46
+CASE00775,ACC004487,Funds received from 8 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:45:35
+CASE00776,ACC002377,"Multiple cash deposits just below the NAD 50,000 threshold over 5 days.",structuring,2026-09-14 15:40:18
+CASE00777,ACC002148,Account linked to 11 other accounts sharing device DEV009352.,mule_network,2026-09-14 15:43:32
+CASE00778,ACC000468,Funds received from 12 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:42:20
+CASE00779,ACC004767,Login from East Aimee followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:40:39
+CASE00780,ACC004113,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:44:59
+CASE00781,ACC001513,Account linked to 7 other accounts sharing device DEV000219.,mule_network,2026-09-14 15:41:45
+CASE00782,ACC003821,Login from North Andrewberg followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:43:01
+CASE00783,ACC003968,Login from South Catherine followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:44:20
+CASE00784,ACC003049,Login from East Jacob followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:41:31
+CASE00785,ACC000084,Funds received from 12 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:40:29
+CASE00786,ACC003321,Funds received from 12 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:43:29
+CASE00787,ACC000655,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:41:11
+CASE00788,ACC001226,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:42:15
+CASE00789,ACC002138,"Multiple cash deposits just below the NAD 10,000 threshold over 2 days.",structuring,2026-09-14 15:41:30
+CASE00790,ACC000860,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:42:45
+CASE00791,ACC002377,"Multiple cash deposits just below the NAD 25,000 threshold over 13 days.",structuring,2026-09-14 15:44:25
+CASE00792,ACC000148,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:44:15
+CASE00793,ACC000882,"Multiple cash deposits just below the NAD 10,000 threshold over 14 days.",structuring,2026-09-14 15:41:34
+CASE00794,ACC001103,Login from South Feliciaview followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:44:57
+CASE00795,ACC000214,Funds received from 11 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:44:11
+CASE00796,ACC004439,"Multiple cash deposits just below the NAD 25,000 threshold over 7 days.",structuring,2026-09-14 15:42:09
+CASE00797,ACC004090,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:45:29
+CASE00798,ACC001338,"Customer made 7 transfers of NAD 9853 each, consistent with structuring.",structuring,2026-09-14 15:40:37
+CASE00799,ACC001415,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:42:56
+CASE00800,ACC000828,Account linked to 2 other accounts sharing device DEV005255.,mule_network,2026-09-14 15:40:06
+CASE00801,ACC001001,MFA challenged 11 times within 45 minutes from new device.,account_takeover,2026-09-14 15:44:38
+CASE00802,ACC001907,"Multiple cash deposits just below the NAD 10,000 threshold over 14 days.",structuring,2026-09-14 15:42:42
+CASE00803,ACC004315,Login from South Danielle followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:44:22
+CASE00804,ACC004771,Login from East William followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:43:45
+CASE00805,ACC000642,Funds received from 9 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:40:38
+CASE00806,ACC003321,Login from Carlostown followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:44:55
+CASE00807,ACC003682,Login from Victoriafort followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:43:01
+CASE00808,ACC000501,"Multiple cash deposits just below the NAD 10,000 threshold over 14 days.",structuring,2026-09-14 15:46:01
+CASE00809,ACC000157,"Customer made 7 transfers of NAD 63691 each, consistent with structuring.",structuring,2026-09-14 15:41:12
+CASE00810,ACC000716,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:45:36
+CASE00811,ACC004183,Funds received from 3 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:44:37
+CASE00812,ACC000964,"Multiple cash deposits just below the NAD 10,000 threshold over 14 days.",structuring,2026-09-14 15:43:38
+CASE00813,ACC000465,Account linked to 5 other accounts sharing device DEV006553.,mule_network,2026-09-14 15:44:47
+CASE00814,ACC002754,MFA challenged 8 times within 43 minutes from new device.,account_takeover,2026-09-14 15:42:34
+CASE00815,ACC004684,Login from Jonesland followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:43:47
+CASE00816,ACC003543,"Customer made 3 transfers of NAD 32639 each, consistent with structuring.",structuring,2026-09-14 15:45:10
+CASE00817,ACC002966,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:41:55
+CASE00818,ACC001371,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:40:58
+CASE00819,ACC003899,Funds received from 2 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:41:52
+CASE00820,ACC001061,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:45:11
+CASE00821,ACC000926,"Multiple cash deposits just below the NAD 25,000 threshold over 10 days.",structuring,2026-09-14 15:45:50
+CASE00822,ACC002094,"Multiple cash deposits just below the NAD 25,000 threshold over 7 days.",structuring,2026-09-14 15:45:59
+CASE00823,ACC004524,Account linked to 2 other accounts sharing device DEV007232.,mule_network,2026-09-14 15:44:39
+CASE00824,ACC000838,Funds received from 7 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:40:28
+CASE00825,ACC000106,"Customer made 9 transfers of NAD 8671 each, consistent with structuring.",structuring,2026-09-14 15:43:56
+CASE00826,ACC004524,"Customer made 11 transfers of NAD 18020 each, consistent with structuring.",structuring,2026-09-14 15:41:15
+CASE00827,ACC004010,MFA challenged 11 times within 11 minutes from new device.,account_takeover,2026-09-14 15:41:22
+CASE00828,ACC002880,MFA challenged 2 times within 24 minutes from new device.,account_takeover,2026-09-14 15:40:22
+CASE00829,ACC002451,Funds received from 3 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:45:32
+CASE00830,ACC002304,"Multiple cash deposits just below the NAD 25,000 threshold over 11 days.",structuring,2026-09-14 15:41:11
+CASE00831,ACC000705,"Customer made 6 transfers of NAD 19470 each, consistent with structuring.",structuring,2026-09-14 15:41:22
+CASE00832,ACC004797,Account linked to 11 other accounts sharing device DEV001604.,mule_network,2026-09-14 15:40:06
+CASE00833,ACC001065,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:41:04
+CASE00834,ACC000199,Account linked to 7 other accounts sharing device DEV002848.,mule_network,2026-09-14 15:41:33
+CASE00835,ACC003902,"Customer made 6 transfers of NAD 79146 each, consistent with structuring.",structuring,2026-09-14 15:41:39
+CASE00836,ACC001117,MFA challenged 7 times within 20 minutes from new device.,account_takeover,2026-09-14 15:41:42
+CASE00837,ACC002570,"Customer made 5 transfers of NAD 94971 each, consistent with structuring.",structuring,2026-09-14 15:46:01
+CASE00838,ACC003795,"Customer made 10 transfers of NAD 23704 each, consistent with structuring.",structuring,2026-09-14 15:44:00
+CASE00839,ACC003862,Login from Melissastad followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:43:33
+CASE00840,ACC002128,Account linked to 6 other accounts sharing device DEV002186.,mule_network,2026-09-14 15:41:01
+CASE00841,ACC000486,Funds received from 8 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:45:47
+CASE00842,ACC002435,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:41:04
+CASE00843,ACC003862,Funds received from 7 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:45:49
+CASE00844,ACC001501,"Customer made 7 transfers of NAD 74888 each, consistent with structuring.",structuring,2026-09-14 15:44:47
+CASE00845,ACC004129,"Multiple cash deposits just below the NAD 25,000 threshold over 3 days.",structuring,2026-09-14 15:40:40
+CASE00846,ACC002570,"Customer made 5 transfers of NAD 67559 each, consistent with structuring.",structuring,2026-09-14 15:40:06
+CASE00847,ACC004628,Account linked to 6 other accounts sharing device DEV000907.,mule_network,2026-09-14 15:43:22
+CASE00848,ACC003557,"Multiple cash deposits just below the NAD 50,000 threshold over 14 days.",structuring,2026-09-14 15:44:53
+CASE00849,ACC001406,Account linked to 9 other accounts sharing device DEV003401.,mule_network,2026-09-14 15:41:02
+CASE00850,ACC000710,"Customer made 11 transfers of NAD 70234 each, consistent with structuring.",structuring,2026-09-14 15:44:54
+CASE00851,ACC001670,Account linked to 2 other accounts sharing device DEV002382.,mule_network,2026-09-14 15:44:18
+CASE00852,ACC002351,Login from Duncanstad followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:40:32
+CASE00853,ACC003580,Login from Tatefurt followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:41:02
+CASE00854,ACC000118,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:42:01
+CASE00855,ACC003726,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:43:50
+CASE00856,ACC004896,Funds received from 8 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:43:04
+CASE00857,ACC004344,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:44:12
+CASE00858,ACC002527,"Customer made 2 transfers of NAD 65634 each, consistent with structuring.",structuring,2026-09-14 15:45:36
+CASE00859,ACC003599,Account linked to 5 other accounts sharing device DEV006340.,mule_network,2026-09-14 15:46:03
+CASE00860,ACC002659,Funds received from 9 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:40:35
+CASE00861,ACC003773,Funds received from 8 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:44:20
+CASE00862,ACC000168,Login from East Natasha followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:45:24
+CASE00863,ACC002220,"Customer made 6 transfers of NAD 29047 each, consistent with structuring.",structuring,2026-09-14 15:44:09
+CASE00864,ACC001117,Account linked to 3 other accounts sharing device DEV005669.,mule_network,2026-09-14 15:42:08
+CASE00865,ACC002323,MFA challenged 5 times within 17 minutes from new device.,account_takeover,2026-09-14 15:42:07
+CASE00866,ACC001745,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:40:21
+CASE00867,ACC001095,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:45:53
+CASE00868,ACC004282,Account linked to 10 other accounts sharing device DEV009047.,mule_network,2026-09-14 15:43:56
+CASE00869,ACC002215,"Customer made 8 transfers of NAD 60535 each, consistent with structuring.",structuring,2026-09-14 15:43:26
+CASE00870,ACC000240,"Customer made 9 transfers of NAD 13743 each, consistent with structuring.",structuring,2026-09-14 15:40:30
+CASE00871,ACC004256,Account linked to 11 other accounts sharing device DEV000283.,mule_network,2026-09-14 15:45:49
+CASE00872,ACC004445,"Customer made 7 transfers of NAD 80787 each, consistent with structuring.",structuring,2026-09-14 15:40:57
+CASE00873,ACC000393,MFA challenged 8 times within 50 minutes from new device.,account_takeover,2026-09-14 15:41:27
+CASE00874,ACC004771,"Customer made 6 transfers of NAD 85766 each, consistent with structuring.",structuring,2026-09-14 15:42:30
+CASE00875,ACC001413,Funds received from 8 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:43:21
+CASE00876,ACC002138,Funds received from 8 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:44:38
+CASE00877,ACC001001,Login from East Monicahaven followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:44:41
+CASE00878,ACC000794,"Multiple cash deposits just below the NAD 50,000 threshold over 5 days.",structuring,2026-09-14 15:41:33
+CASE00879,ACC004966,Account linked to 5 other accounts sharing device DEV000071.,mule_network,2026-09-14 15:41:18
+CASE00880,ACC001103,Account linked to 5 other accounts sharing device DEV005097.,mule_network,2026-09-14 15:41:55
+CASE00881,ACC002099,Login from Lake Nathanland followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:43:22
+CASE00882,ACC002801,Funds received from 6 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:44:29
+CASE00883,ACC001615,Login from Pamelahaven followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:42:37
+CASE00884,ACC001755,MFA challenged 5 times within 43 minutes from new device.,account_takeover,2026-09-14 15:42:54
+CASE00885,ACC004341,MFA challenged 4 times within 31 minutes from new device.,account_takeover,2026-09-14 15:41:33
+CASE00886,ACC004257,"Customer made 10 transfers of NAD 69231 each, consistent with structuring.",structuring,2026-09-14 15:41:32
+CASE00887,ACC002351,Funds received from 8 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:43:07
+CASE00888,ACC000386,"Multiple cash deposits just below the NAD 25,000 threshold over 4 days.",structuring,2026-09-14 15:43:48
+CASE00889,ACC002846,"Multiple cash deposits just below the NAD 50,000 threshold over 2 days.",structuring,2026-09-14 15:42:49
+CASE00890,ACC000775,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:42:33
+CASE00891,ACC002094,Account linked to 6 other accounts sharing device DEV004866.,mule_network,2026-09-14 15:44:40
+CASE00892,ACC004816,"Customer made 3 transfers of NAD 59731 each, consistent with structuring.",structuring,2026-09-14 15:40:48
+CASE00893,ACC003543,MFA challenged 8 times within 14 minutes from new device.,account_takeover,2026-09-14 15:45:37
+CASE00894,ACC004524,Funds received from 9 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:43:10
+CASE00895,ACC000167,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:40:11
+CASE00896,ACC000435,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:43:10
+CASE00897,ACC000642,MFA challenged 8 times within 51 minutes from new device.,account_takeover,2026-09-14 15:44:22
+CASE00898,ACC003012,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:45:52
+CASE00899,ACC001073,Funds received from 7 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:45:35
+CASE00900,ACC002099,Account linked to 12 other accounts sharing device DEV004178.,mule_network,2026-09-14 15:44:38
+CASE00901,ACC001090,Funds received from 5 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:44:08
+CASE00902,ACC003252,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:45:38
+CASE00903,ACC003340,Account linked to 11 other accounts sharing device DEV005655.,mule_network,2026-09-14 15:44:47
+CASE00904,ACC001744,"Customer made 2 transfers of NAD 42871 each, consistent with structuring.",structuring,2026-09-14 15:45:33
+CASE00905,ACC002280,"Customer made 12 transfers of NAD 86864 each, consistent with structuring.",structuring,2026-09-14 15:44:01
+CASE00906,ACC002527,Funds received from 9 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:40:35
+CASE00907,ACC001590,Login from Rodriguezborough followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:43:39
+CASE00908,ACC003238,Funds received from 6 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:45:17
+CASE00909,ACC002468,"Multiple cash deposits just below the NAD 25,000 threshold over 5 days.",structuring,2026-09-14 15:44:18
+CASE00910,ACC002465,"Customer made 12 transfers of NAD 14940 each, consistent with structuring.",structuring,2026-09-14 15:42:23
+CASE00911,ACC001656,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:45:46
+CASE00912,ACC003601,"Customer made 7 transfers of NAD 10954 each, consistent with structuring.",structuring,2026-09-14 15:43:01
+CASE00913,ACC002591,"Multiple cash deposits just below the NAD 10,000 threshold over 10 days.",structuring,2026-09-14 15:42:23
+CASE00914,ACC002887,Account linked to 5 other accounts sharing device DEV009919.,mule_network,2026-09-14 15:46:00
+CASE00915,ACC003107,"Customer made 6 transfers of NAD 61998 each, consistent with structuring.",structuring,2026-09-14 15:41:15
+CASE00916,ACC001997,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:41:33
+CASE00917,ACC000199,Account linked to 6 other accounts sharing device DEV004849.,mule_network,2026-09-14 15:44:06
+CASE00918,ACC000240,"Customer made 10 transfers of NAD 72744 each, consistent with structuring.",structuring,2026-09-14 15:41:45
+CASE00919,ACC004487,"Multiple cash deposits just below the NAD 25,000 threshold over 11 days.",structuring,2026-09-14 15:40:50
+CASE00920,ACC004939,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:43:10
+CASE00921,ACC000827,MFA challenged 5 times within 44 minutes from new device.,account_takeover,2026-09-14 15:45:28
+CASE00922,ACC001073,MFA challenged 12 times within 21 minutes from new device.,account_takeover,2026-09-14 15:42:14
+CASE00923,ACC002653,Funds received from 12 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:43:43
+CASE00924,ACC002515,Funds received from 12 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:44:48
+CASE00925,ACC001973,"Customer made 4 transfers of NAD 44178 each, consistent with structuring.",structuring,2026-09-14 15:43:08
+CASE00926,ACC001103,"Customer made 5 transfers of NAD 80049 each, consistent with structuring.",structuring,2026-09-14 15:45:01
+CASE00927,ACC001497,Funds received from 2 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:46:04
+CASE00928,ACC004740,Funds received from 8 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:40:51
+CASE00929,ACC001386,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:41:01
+CASE00930,ACC003456,"Multiple cash deposits just below the NAD 25,000 threshold over 8 days.",structuring,2026-09-14 15:42:38
+CASE00931,ACC001755,Account linked to 10 other accounts sharing device DEV000836.,mule_network,2026-09-14 15:43:21
+CASE00932,ACC002570,"Customer made 3 transfers of NAD 90945 each, consistent with structuring.",structuring,2026-09-14 15:42:45
+CASE00933,ACC004062,Funds received from 2 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:42:30
+CASE00934,ACC003026,"Customer made 11 transfers of NAD 63434 each, consistent with structuring.",structuring,2026-09-14 15:40:24
+CASE00935,ACC000228,Account linked to 7 other accounts sharing device DEV002301.,mule_network,2026-09-14 15:42:19
+CASE00936,ACC000367,Account linked to 11 other accounts sharing device DEV004284.,mule_network,2026-09-14 15:43:40
+CASE00937,ACC002586,"Multiple cash deposits just below the NAD 25,000 threshold over 10 days.",structuring,2026-09-14 15:45:06
+CASE00938,ACC001143,"Multiple cash deposits just below the NAD 50,000 threshold over 2 days.",structuring,2026-09-14 15:41:30
+CASE00939,ACC003078,Account linked to 9 other accounts sharing device DEV000517.,mule_network,2026-09-14 15:43:38
+CASE00940,ACC003849,Login from Gilbertside followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:44:53
+CASE00941,ACC004797,Login from East Emily followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:43:39
+CASE00942,ACC004487,Funds received from 11 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:44:25
+CASE00943,ACC002280,Login from New Stevenburgh followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:40:07
+CASE00944,ACC002858,"Customer made 3 transfers of NAD 25492 each, consistent with structuring.",structuring,2026-09-14 15:43:21
+CASE00945,ACC002210,MFA challenged 4 times within 47 minutes from new device.,account_takeover,2026-09-14 15:40:27
+CASE00946,ACC001755,Login from Catherinefort followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:41:49
+CASE00947,ACC000839,Account linked to 12 other accounts sharing device DEV002542.,mule_network,2026-09-14 15:45:29
+CASE00948,ACC000655,MFA challenged 10 times within 9 minutes from new device.,account_takeover,2026-09-14 15:40:23
+CASE00949,ACC000998,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:41:05
+CASE00950,ACC002351,"Customer made 9 transfers of NAD 69479 each, consistent with structuring.",structuring,2026-09-14 15:45:22
+CASE00951,ACC001826,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:44:26
+CASE00952,ACC000240,Account linked to 4 other accounts sharing device DEV009170.,mule_network,2026-09-14 15:40:07
+CASE00953,ACC002281,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:42:36
+CASE00954,ACC004719,Account linked to 4 other accounts sharing device DEV000769.,mule_network,2026-09-14 15:42:28
+CASE00955,ACC002633,Account linked to 11 other accounts sharing device DEV003992.,mule_network,2026-09-14 15:45:53
+CASE00956,ACC003920,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:40:28
+CASE00957,ACC003601,MFA challenged 5 times within 59 minutes from new device.,account_takeover,2026-09-14 15:45:27
+CASE00958,ACC004062,Funds received from 11 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:41:16
+CASE00959,ACC001501,MFA challenged 5 times within 17 minutes from new device.,account_takeover,2026-09-14 15:40:41
+CASE00960,ACC001084,Account linked to 6 other accounts sharing device DEV005853.,mule_network,2026-09-14 15:40:53
+CASE00961,ACC004121,"Customer made 10 transfers of NAD 71875 each, consistent with structuring.",structuring,2026-09-14 15:45:01
+CASE00962,ACC003107,MFA challenged 6 times within 58 minutes from new device.,account_takeover,2026-09-14 15:42:55
+CASE00963,ACC004121,Account linked to 11 other accounts sharing device DEV004751.,mule_network,2026-09-14 15:44:02
+CASE00964,ACC000926,"Customer made 11 transfers of NAD 53150 each, consistent with structuring.",structuring,2026-09-14 15:44:49
+CASE00965,ACC000758,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:45:39
+CASE00966,ACC004159,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:44:00
+CASE00967,ACC004290,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:43:56
+CASE00968,ACC003968,"Multiple cash deposits just below the NAD 10,000 threshold over 11 days.",structuring,2026-09-14 15:43:09
+CASE00969,ACC001209,"Multiple cash deposits just below the NAD 10,000 threshold over 4 days.",structuring,2026-09-14 15:43:33
+CASE00970,ACC002979,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:43:55
+CASE00971,ACC004371,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:40:44
+CASE00972,ACC000165,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:41:08
+CASE00973,ACC004548,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:44:36
+CASE00974,ACC001654,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:42:23
+CASE00975,ACC000981,"Customer made 7 transfers of NAD 91611 each, consistent with structuring.",structuring,2026-09-14 15:40:44
+CASE00976,ACC002215,Funds received from 9 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:41:18
+CASE00977,ACC000931,"Customer made 4 transfers of NAD 51108 each, consistent with structuring.",structuring,2026-09-14 15:46:02
+CASE00978,ACC002527,"Multiple cash deposits just below the NAD 10,000 threshold over 10 days.",structuring,2026-09-14 15:41:53
+CASE00979,ACC004399,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:42:12
+CASE00980,ACC000240,Login from North Christian followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:42:26
+CASE00981,ACC004153,"Multiple cash deposits just below the NAD 10,000 threshold over 4 days.",structuring,2026-09-14 15:43:48
+CASE00982,ACC002955,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:45:23
+CASE00983,ACC004522,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:40:46
+CASE00984,ACC002356,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:43:05
+CASE00985,ACC001370,"Multiple cash deposits just below the NAD 50,000 threshold over 3 days.",structuring,2026-09-14 15:40:54
+CASE00986,ACC004842,"Customer made 9 transfers of NAD 31426 each, consistent with structuring.",structuring,2026-09-14 15:42:32
+CASE00987,ACC000846,MFA challenged 11 times within 51 minutes from new device.,account_takeover,2026-09-14 15:41:37
+CASE00988,ACC004388,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:43:31
+CASE00989,ACC004153,Account linked to 8 other accounts sharing device DEV001034.,mule_network,2026-09-14 15:43:10
+CASE00990,ACC000357,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:40:21
+CASE00991,ACC002819,"Customer made 5 transfers of NAD 52169 each, consistent with structuring.",structuring,2026-09-14 15:42:15
+CASE00992,ACC001310,Salary deposit and routine bill payments observed.,legitimate,2026-09-14 15:42:41
+CASE00993,ACC000915,"Multiple cash deposits just below the NAD 50,000 threshold over 5 days.",structuring,2026-09-14 15:42:04
+CASE00994,ACC000029,MFA challenged 4 times within 38 minutes from new device.,account_takeover,2026-09-14 15:45:25
+CASE00995,ACC000711,Login from Georgeport followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:41:43
+CASE00996,ACC002323,Login from Reidville followed by password reset and beneficiary change.,account_takeover,2026-09-14 15:45:18
+CASE00997,ACC004445,Funds received from 12 unrelated parties and transferred out within minutes.,mule_network,2026-09-14 15:45:50
+CASE00998,ACC000981,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:43:03
+CASE00999,ACC001342,Customer confirmed transaction via branch visit.,legitimate,2026-09-14 15:42:17
